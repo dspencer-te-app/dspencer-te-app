@@ -1,6 +1,6 @@
 ![ds2025-header](https://media.licdn.com/dms/image/v2/D5616AQHZnZSbx_vIrw/profile-displaybackgroundimage-shrink_350_1400/B56ZYlQJgcGoAc-/0/1744381715070?e=1750291200&v=beta&t=3WabMGNaAr6qLg5pQo6FW1XyXh8qsy4QUfMOKCCLkZ0)
 
-## Finger Dspencer@te-app.cc
+## ~$ finger Dspencer@te-app.cc ↵
 ```
 #!/usr/bin/env sh
 "true" ; exec /usr/bin/env sbcl --noinform --script "$0" "$@"
