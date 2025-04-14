@@ -55,7 +55,7 @@
             :git-flow
             :git-bug
             :git-email
-            :charmbracelet_soft_serve
+            :Postgresql
             :notmuch-mail
             :slrn
             :Ansible
